@@ -2,7 +2,7 @@
 This macro displays an alert on the device when a fire alarm is detected - Based on T3Alarm API
 
 Example of the UI of the alert displayed on the UI of the device:
-![Sample UI Screenshot of Room Capacity Alert](fireAlarmAlert.png)
+![Sample UI Screenshot of Fire Alarm Alert](fireAlarmAlert.png)
 
 
 ## Requirements
