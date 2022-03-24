@@ -6,9 +6,6 @@ The macros can also be browsed and saved easily from [roomos.cisco.com](https://
 
 If you connect your video device to this website, you can install the macros and UI extensions directly. Then, it's simple to make adjustments and create your own tools.
 
-![RoomOS Site](roomos.png)
-
-
 ## Requirements
 1. Webex devices running Software version CE9.2.1 or newer (e.g., Webex Board, Desk, or Room Series).
 2. Some macros using newer features require newer firmware. See the requirements list specified within each macro.
